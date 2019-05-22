@@ -1,5 +1,6 @@
 body{
-	background:#F8E0E0;
+	background: url(../img/IMG-20190515-WA0023.jpg);
+
 }
 h1{
 	font-family:Arial ;
@@ -8,6 +9,6 @@ h1{
 }
 h2{
 	font-family:Arial;
-	color:black;
+	color:white;
 	float: left;
 }
