@@ -7,12 +7,25 @@ h1{
 	font-family:Arial Black;
 	background:#1C1C1C;
 	color: white;
+	border-radius:50px; 
     background: rgba(0,0,0,0.4)
 }
 h2{
 	font-family:Arial;
 	color:white;
 	float: left;
+	border-radius: 30px;
 	background: rgba(0,0,0,0.4)
 
+
 }
+input#boton{
+	font-family:Arial;
+	color:white;
+	float: left;
+	border-radius: 30px;
+	background: rgba(0,0,0,0.4)
+
+
+}
+
